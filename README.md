@@ -29,7 +29,7 @@ JingQi Browser is a secure browser built on top of cefpython3 and tkinter. This 
 
    ```bash
    git clone https://github.com/Ericsjq/JingQi-Browser.git
-   cd JingQiBrowser
+   cd JingQi-Browser
    ```
 
 2. Run the browser:
@@ -106,7 +106,7 @@ JingQi 浏览器是一款基于 cefpython3 和 tkinter 构建的安全浏览器�
 
    ```bash
    git clone https://github.com/Ericsjq/JingQi-Browser.git
-   cd JingQiBrowser
+   cd JingQi-Browser
    ```
 
 2. 运行浏览器：
