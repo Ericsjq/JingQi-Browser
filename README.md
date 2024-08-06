@@ -6,7 +6,7 @@
 
 ## About
 
-JingQi Browser is a secure browser built on top of cefpython3 and tkinter. This browser places special emphasis on privacy and security, using advanced encryption techniques to ensure that your online activities remain private.
+JingQi Browser is a secure browser built on top of cefpython3 and tkinter. This browser places special emphasis on privacy and security, using advanced encryption techniques to ensure that your online activities remain private.And supports a special encrypted top-level domain: .jq, you can be here. There are some hidden operations on the jq site.
 
 ## Features
 
@@ -83,7 +83,7 @@ Last Updated: 2024-08-04
 
 ## 关于
 
-JingQi 浏览器是一款基于 cefpython3 和 tkinter 构建的安全浏览器。本浏览器特别注重隐私和安全性，采用先进的加密技术确保您的在线活动保持私密。
+JingQi 浏览器是一款基于 cefpython3 和 tkinter 构建的安全浏览器。本浏览器特别注重隐私和安全性，采用先进的加密技术确保您的在线活动保持私密。且支持一种特殊的加密顶级域名：.jq  您可以在.jq站点上进行一些隐匿的操作。
 
 ## 特点
 
